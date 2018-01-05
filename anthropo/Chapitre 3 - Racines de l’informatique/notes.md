@@ -54,7 +54,7 @@
  - Télégraphe optique a "bras" utiliser en Europe
    - Premier essay en 1791
    - **MAIS** ne s'ai jamais vraiment developper.
- - Télégraphe Optique
+ - Télégraphe electrique
    - **Deux** brevet diferent (1837)
      - Par *Cooke* en Grande Bretagne
      - Et par *Morse* aux USA
@@ -68,3 +68,4 @@
 
 ### Machines
  - Machine analytique de babage et sons assistant Clement (FDP car il a vollé les plant)
+ - ENIAC machine a calculer créer pendant la gére
