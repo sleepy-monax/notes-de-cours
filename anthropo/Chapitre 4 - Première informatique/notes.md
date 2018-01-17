@@ -34,14 +34,14 @@
 
  - A partire des années 50
   - Bandes magnétique
- - IBM RAMAC: premier disque decouper
+ - IBM RAMAC: premier disque dure
 
  - 1960 Transistors (inventer en 1947 par John Bardeen, Walter Brattain et William Shockley (Prix Nobel de physique en 1956) utilisation 1960)
   - peut faire le même travail qu'une lampe à vide (cf. chapitre 3.5 § 2.2.0)
   - en étant
     - infiniment plus petit
     - beaucoup plus fiable
-    - beaucoup plus facile à utiliser (ne casse pas et ne chauffe pas)
+    - beaucoup plus facile à utiliser (ne casse pas et chauffe peu)
     - moins cher (à terme mais pas au début)
   - Premier ordinateurs a utiliser des transitors sonts:
     - SEAC
@@ -62,7 +62,7 @@
   - Programe en memoire central
    - Plus rapide a charger
    - On peux modifier des Programme
-   - plustard permettra la creation des language compiler
+   - plus tard permettra la creation des language compiler
   - Branche conditionnel
    - idée de Babage
 

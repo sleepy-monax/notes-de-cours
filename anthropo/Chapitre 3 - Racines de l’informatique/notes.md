@@ -1,6 +1,12 @@
 # Racines de l'informatique
 
 ## L'écriture
+ - Papier inventer en chine aux alentour du 2eme siecle
+ - Avant l'ecriture: Culture oral, l'inteligence est souvent idétifié a la mémoire.
+ - Beaucoup de mythes
+ - L'art parietal est a la racine de l'ecriture
+ - l'écriture est la representation visualle du language par un système de signes graphiques.
+   - C'est la plus important de toutes les invention.
 
 ## L'imprimerie
 
@@ -23,7 +29,7 @@
 ### support de Programme
  - Tambour a cames
  - rouleau
- - les cartes prforer facile a ranger et a modifier
+ - les cartes peforer facile a ranger et a modifier
 
 ### Automates celebres
  - 'Joueuse de tympanon' de Pierre Kintzing avec son rouleau (non amovible) en laiton portant des cames au centre (qui commandent les gestes des avant-bras) et, latéralement, des picots (qui dictent les mouvements des marteaux).  Un ressort moteur est situé sous le tabouret de la joueuse.
